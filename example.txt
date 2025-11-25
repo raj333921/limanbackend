@@ -1,0 +1,10 @@
+{
+  "question": {
+    "en": "What is the capital of India?",
+    "ta": "இந்தியாவின் தலைநகர் என்ன?"
+  },
+  "options": [
+    {"en": "Delhi", "ta": "டெல்லி"},
+    {"en": "Mumbai", "ta": "மும்பை"}
+  ]
+}
