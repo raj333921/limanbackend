@@ -5,14 +5,14 @@ const path = require("path");
 
 // Add question
 exports.addQuestion = async (req, res) => {
-  const { level, question, options, correct_option} = req.body;
+  const { level, question, options, correct_option, explanation} = req.body;
   const table = level === "hard" ? "hard_questions" : "easy_questions";
   let image_path = req.file ? req.file.path : null;
   try {
    console.log(table);
     await pool.query(
-      `INSERT INTO ${table} (question, options, correct_option, image_path, type) VALUES ($1,$2,$3,$4,$5)`,
-      [question, options, correct_option, image_path, level]
+      `INSERT INTO ${table} (question, options, correct_option, image_path, type, explanation) VALUES ($1,$2,$3,$4,$5,$6)`,
+      [question, options, correct_option, image_path, level,explanation]
     );
     res.json({ message: "Question added successfully" });
   } catch (err) {
@@ -23,7 +23,7 @@ exports.addQuestion = async (req, res) => {
 // Edit question
 exports.editQuestion = async (req, res) => {
   const { id } = req.params;
-  const { level, question, options, correct_option } = req.body;
+  const { level, question, options, correct_option, explanation} = req.body;
   const table = level === "hard" ? "hard_questions" : "easy_questions";
 
   try {
@@ -35,8 +35,8 @@ exports.editQuestion = async (req, res) => {
     const newImage = req.file ? req.file.path : oldImage;
 
     await pool.query(
-      `UPDATE ${table} SET question=$1, options=$2, correct_option=$3, image_path=$4 WHERE id=$5`,
-      [question, options, correct_option, newImage, id]
+      `UPDATE ${table} SET question=$1, options=$2, correct_option=$3, image_path=$4, type=$5, explanation=$6  WHERE id=$7`,
+      [question, options, correct_option, newImage, level,explanation, id]
     );
 
     // Delete old image if replaced
