@@ -1,14 +1,27 @@
 const pool = require("../config/db");
 
 exports.getQuestions = async (req, res) => {
-  const { level, lang } = req.query; // level=easy/hard, lang=en/fr/nl
-  const table = level === "hard" ? "hard_questions" : "easy_questions";
+  const { lang = "en" } = req.query;
+
   try {
-    const result = await pool.query(
-      `SELECT id, question->>$1 AS question, options FROM ${table} ORDER BY RANDOM() LIMIT 5`,
+    const easyQuery = await pool.query(
+      `SELECT id, 'easy' AS level, (question->0->>$1) AS question, options, correct_option
+       FROM easy_questions`,
       [lang]
     );
-    res.json(result.rows);
+
+    const hardQuery = await pool.query(
+      `SELECT id, 'hard' AS level, (question->0->>$1) AS question, options, correct_option
+       FROM hard_questions`,
+      [lang]
+    );
+
+    const allQuestions = [...easyQuery.rows, ...hardQuery.rows].map(q => ({
+      ...q,
+      options: typeof q.options === "string" ? JSON.parse(q.options) : q.options
+    }));
+
+    res.json(allQuestions);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

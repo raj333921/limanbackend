@@ -4,14 +4,17 @@ const jwt = require("jsonwebtoken");
 require("dotenv").config();
 
 exports.adminLogin = async (req, res) => {
-  const { email, password } = req.body;
+  const { username, password } = req.body;
 
   try {
-    const result = await pool.query("SELECT * FROM admins WHERE email=$1", [email]);
+    console.log(username)
+    const result = await pool.query("SELECT * FROM admins WHERE email=$1", [username]);
     if (result.rows.length === 0) return res.status(400).json({ message: "Admin not found" });
 
     const admin = result.rows[0];
-    const isMatch = await bcrypt.compare(password, admin.password);
+    console.log("12341->"+password);
+    console.log(admin.password);
+    const isMatch = (password === admin.password);
     if (!isMatch) return res.status(400).json({ message: "Incorrect password" });
 
     const token = jwt.sign({ id: admin.id, isAdmin: true }, process.env.JWT_SECRET, {

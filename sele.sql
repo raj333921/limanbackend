@@ -11,6 +11,7 @@ CREATE TABLE IF NOT EXISTS easy_questions (
     question JSONB NOT NULL,
     options JSONB NOT NULL,
     correct_option INT NOT NULL,
+    type TEXT NOT NULL,
     image_path TEXT
 );
 
@@ -20,6 +21,7 @@ CREATE TABLE IF NOT EXISTS hard_questions (
     question JSONB NOT NULL,
     options JSONB NOT NULL,
     correct_option INT NOT NULL,
+    type TEXT NOT NULL,
     image_path TEXT
 );
 
