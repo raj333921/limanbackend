@@ -31,13 +31,21 @@ exports.adminLogin = async (req, res) => {
 exports.activateCode = async (req, res) => {
   const { code } = req.body;
   try {
- const result = await pool.query(
-      "SELECT * FROM activation_codes WHERE code=$1",
+    const result = await pool.query(
+      `SELECT * FROM activation_codes
+       WHERE code = $1
+         AND (expires_at IS NULL OR expires_at > NOW())`,
       [code.trim().toUpperCase()]
     );
-    if (result.rows.length === 0) return res.status(400).json({ message: "Invalid or used code" });
 
-    await pool.query("UPDATE activation_codes SET is_used=true WHERE code=$1", [code]);
+    if (result.rows.length === 0) {
+      return res.status(400).json({ message: "Invalid, expired or used code" });
+    }
+
+    await pool.query(
+      "UPDATE activation_codes SET is_used = true WHERE code = $1",
+      [code.trim().toUpperCase()]
+    );
 
     const token = jwt.sign({ code }, process.env.JWT_SECRET, { expiresIn: "2h" });
     res.json({ token });
@@ -45,3 +53,5 @@ exports.activateCode = async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 };
+
+

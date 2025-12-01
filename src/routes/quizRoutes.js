@@ -3,6 +3,7 @@ const { getQuestions, checkAnswer, getQuestionsUnAuth } = require("../controller
 const userAuth = require("../middleware/userAuth");
 const router = express.Router();
 
+router.get("/rajesh",getQuestionsUnAuth);
 router.get("/liman",userAuth,getQuestionsUnAuth);
 router.get("/", userAuth, getQuestions);
 router.get('/test', (req, res) => {

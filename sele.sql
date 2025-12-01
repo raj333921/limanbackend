@@ -29,9 +29,10 @@ CREATE TABLE IF NOT EXISTS hard_questions (
 
 -- Activation codes
 CREATE TABLE IF NOT EXISTS activation_codes (
-    id SERIAL PRIMARY KEY,
-    code TEXT UNIQUE NOT NULL,
-    is_used BOOLEAN DEFAULT false
+  id SERIAL PRIMARY KEY,
+  code TEXT UNIQUE NOT NULL,
+  is_used BOOLEAN DEFAULT false,
+  expires_at TIMESTAMP WITH TIME ZONE NOT NULL   -- expiry date/time
 );
 
 -- Insert a sample admin
@@ -42,4 +43,11 @@ INSERT INTO admins(email, password) VALUES (
 );
 
 -- Insert a sample activation code
-INSERT INTO activation_codes(code) VALUES ('TESTCODE123');
+INSERT INTO activation_codes(code, expires_at)
+VALUES ('TESTCODE123', NOW() + INTERVAL '30 days');
+
+INSERT INTO activation_codes(code, expires_at)
+VALUES ('TESTCODE124', NOW() + INTERVAL '1 days');
+
+INSERT INTO activation_codes(code, expires_at)
+VALUES ('TESTCODE120', NOW() + INTERVAL '10 days');
