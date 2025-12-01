@@ -31,9 +31,9 @@ exports.adminLogin = async (req, res) => {
 exports.activateCode = async (req, res) => {
   const { code } = req.body;
   try {
-    const result = await pool.query(
-      "SELECT * FROM activation_codes WHERE code=$1 AND is_used=false",
-      [code]
+ const result = await pool.query(
+      "SELECT * FROM activation_codes WHERE code=$1",
+      [code.trim().toUpperCase()]
     );
     if (result.rows.length === 0) return res.status(400).json({ message: "Invalid or used code" });
 

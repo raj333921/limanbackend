@@ -3,9 +3,8 @@ const { getQuestions, checkAnswer, getQuestionsUnAuth } = require("../controller
 const userAuth = require("../middleware/userAuth");
 const router = express.Router();
 
-router.get("/quiz", getQuestionsUnAuth);
+router.get("/liman",userAuth,getQuestionsUnAuth);
 router.get("/", userAuth, getQuestions);
-router.post("/check", userAuth, checkAnswer);
 router.get('/test', (req, res) => {
     res.send('server is ready');
 });
