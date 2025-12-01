@@ -1,1 +1,227 @@
-{}
+[
+  {
+    "id": "8420",
+    "qid": "418",
+    "qw": "5",
+    "type": "hard",
+    "q": "Does the driver of the blue car have to give right of way to the pedestrian?",
+    "s": "yes",
+    "e": "Violations of the 3th and 4th degree, Traffic lights"
+  },
+  {
+    "id": "8396",
+    "qid": "394",
+    "qw": "5",
+    "type": "hard",
+    "q": "The driver of this car must stop. <br /><br />A. Correct.<br />B. Incorrect.",
+    "s": "a",
+    "e":"Violations of the 3th and 4th degree, Qualified persons"
+  },
+  {
+    "id": "8280",
+    "qid": "369",
+    "qw": "5",
+    "type": "hard",
+    "q": "If you want to overtake this cyclist on the left outside a built up area, you have to leave a safe space in between of &hellip; <br /><br />A. ... 1 meter.<br />B. ... 1,5 meter.<br />C. ... 2 meters.",
+    "s": "b",
+    "e": "Violations of the 3th and 4th degree, Over Taking"
+  },
+  {
+    "id": "8406",
+    "qid": "404",
+    "qw": "5",
+    "type": "hard",
+    "q": "The traffic lights turn amber.<br />The blue car &hellip; <br /><br />A. ... must always stop.<br />B. ... is allowed to drive past the amber lights if it can&rsquo;t stop safely anymore.",
+    "s": "b",
+    "e": "Violations of the 3th and 4th degree, Traffic lights"
+  },
+  {
+    "id": "11202",
+    "qid": "851",
+    "qw": "5",
+    "type": "hard",
+    "q": "What is the hierarchical order?<br /><br />A. 1 - 2 - 3.<br />B. 3 - 2 - 1.<br />C. 3 - 1 - 2.",
+    "s": "b",
+    "e": "Violations of the 3th and 4th degree - Road Signs "
+  },
+  {
+    "id": "7690",
+    "qid": "59",
+    "qw": "5",
+    "type": "hard",
+    "q": "Is the driver of the red car allowed to overtake the green car on the left.",
+    "s": "no",
+    "e": "Violations of the 3th and 4th degree - The Lanes "
+  },
+  {
+    "id": "8269",
+    "qid": "358",
+    "qw": "5",
+    "type": "hard",
+    "q": "The blue car is slowing down.<br />Is the grey car allowed to overtake on the left? <br /><br />A. No.<br />B. Yes.<br />C. Yes, if there is no pedestrian.",
+    "s": "a",
+    "e": "Violations of the 3th and 4th degree, Over Taking"
+  },
+  {
+    "id": "8186",
+    "qid": "317",
+    "qw": "5",
+    "type": "hard",
+    "q": "What do these cars have to do at this junction? <br /><br />A. They pas each other on the right. <br />B. They pas each other on the left.",
+    "s": "b",
+    "e":"Violations of the 3th and 4th degree, Crossing"
+  },
+  {
+    "id": "7649",
+    "qid": "18",
+    "qw": "5",
+    "type": "hard",
+    "q": "What is the maximum speed limit in Flanders on a ordinary road? (... km/h)",
+    "s": "70",
+    "e":"Violations of the 3th and 4th degree - The public road "
+  },
+  {
+    "id": "7802",
+    "qid": "121",
+    "qw": "5",
+    "type": "hard",
+    "q": "On this express road in Wallonia with 2x2 lanes, a car is allowed to drive maximum (&hellip;) kph.",
+    "s": "90",
+   "Violations of the 3th and 4th degree - The Express Road "
+  },{
+  "id": "7904",
+  "qid": "174",
+  "qw": "5",
+  "type": "hard",
+  "q": "A pedestrian is not using or going to use the pedestrian crossing. <br />Is the red car allowed to overtake the blue one on the  left?",
+  "s": "no",
+  "e": "Violations of the 3th and 4th degree - The The pedestrians "
+ },
+  {
+    "id": "7813",
+    "qid": "132",
+    "qw": "5",
+    "type": "hard",
+    "q": "You want to test your car and you drive 167kph on this express road. <br /><br />A. This is an offence and you will be fined. <br />B. This is an offence and your driving licence can be suspended immediately.",
+    "s": "b",
+   "Violations of the 3th and 4th degree - The Express Road "
+  },
+  {
+    "id": "8422",
+    "qid": "420",
+    "qw": "5",
+    "type": "hard",
+    "q": "The green filter arrow is lit up. <br />Is the driver of the blue car still allowed to cross at the junction and turn left?",
+    "s": "no",
+    "e": "Violations of the 3th and 4th degree, Traffic lights"
+  },
+  {
+    "id": "7798",
+    "qid": "117",
+    "qw": "5",
+    "type": "hard",
+    "q": "On this express road in Flanders the driver of the orange car is allowed to drive maximum (&hellip;) km/hour.",
+    "s": "70",
+   "Violations of the 3th and 4th degree - The Express Road "
+  },
+  {
+    "id": "8742",
+    "qid": "547",
+    "qw": "5",
+    "type": "hard",
+    "q": "You hear the warning bell sound, but the barriers are still completely open. <br /><br />A. You are allowed to drive through. <br />B. You must stop.",
+    "s": "b",
+    "e": "Violations of the 3th and 4th degree"
+  },
+  {
+    "id": "7856",
+    "qid": "141",
+    "qw": "5",
+    "type": "hard",
+    "q": "In a residential area or estate you are allowed to drive maximum (&hellip;) km/hour.",
+    "s": "20",
+    "e":"Violations of the 3th and 4th degree, Special Places"
+  },
+  {
+    "id": "8135",
+    "qid": "296",
+    "qw": "5",
+    "type": "hard",
+    "q": "You drive too fast in a zone 30.<br />How many kph too fast is needed for the POLICE to withhold your driving licence immediately.  <br /><br />A. More than 20 kph to fast.<br />B. More than 30 kph too fast.<br />C. More than 40 kph too fast.",
+    "s": "a",
+    "e": "Violations of the 3th and 4th degree  "
+  },
+  {
+    "id": "11188",
+    "qid": "838",
+    "qw": "5",
+    "type": "hard",
+    "q": "A school bus has stopped and the hazard warning lights are being used. What do you have to do? <br /><br />A. Stop.<br />B. Slow down and stop if necessary. <br />C. Drive on.",
+    "s": "b",
+    "e": "Violations of the 3th and 4th degree - The lights "},
+  {
+    "id": "8410",
+    "qid": "408",
+    "qw": "5",
+    "type": "hard",
+    "q": "The driver of the brown car wants to cross at the junction. <br />Does he have to consider the red light?",
+    "s": "no",
+    "e": "Violations of the 3th and 4th degree, Traffic lights"
+  },
+  {
+    "id": "8019",
+    "qid": "234",
+    "qw": "5",
+    "type": "hard",
+    "q": "The fuel of your car is LPG or petrol.<br />Are you allowed to drive past this sign with your car? <br /><br />A. Yes.<br />B. No.<br />C. Yes, only when you switch from LPG to petrol.",
+    "s": "a",
+    "e":"Violations of the 3th and 4th degree - The load of passengers "
+  },
+  {
+    "id": "8279",
+    "qid": "368",
+    "qw": "5",
+    "type": "hard",
+    "q": "If you want to overtake this cyclist on the left outside a built up area, you have to leave a safe space in between of &hellip; <br /><br />A. ... 1 meter.<br />B. ... 1,5 meter.<br />C. ... 2 meters.",
+    "s": "b",
+    "e": "Violations of the 3th and 4th degree, Over Taking"
+  },
+  {
+    "id": "8401",
+    "qid": "399",
+    "qw": "5",
+
+    "type": "hard",
+    "q": "The traffic lights are out of order.<br />Who is allowed to cross first? <br /><br />A. The moped.<br />B. The red car.",
+    "s": "a",
+    "e":"Violations of the 3th and 4th degree, Qualified persons"
+  },
+  {
+    "id": "7851",
+    "qid": "136",
+    "qw": "5",
+
+    "type": "hard",
+    "q": "When does the speed limit apply? <br /><br />A. Always. <br />B. Only during the school hours. <br />C. Only during the school hours and not on holidays.",
+    "s": "a",
+    "e":"Violations of the 3th and 4th degree, Special Places"
+  },
+  {
+    "id": "8749",
+    "qid": "554",
+    "qw": "5",
+    "type": "hard",
+    "q": "What does this sign indicate? <br /><br />A. The M.G.W. <br />B. The M.A.W.",
+    "s": "a",
+    "e":"Violations of the 3th and 4th degree, Prohibited direction"
+  },
+  {
+    "id": "8390",
+    "qid": "388",
+    "qw": "5",
+    "type": "hard",
+    "q": "The driver of the black car wants to turn left. <br /><br />A. He is allowed.<br />B. He is only allowed to drive on.<br />C. He must stop.",
+    "s": "a",
+    "e":"Violations of the 3th and 4th degree, Qualified persons"
+  }
+]
