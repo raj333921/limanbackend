@@ -136,22 +136,6 @@
     "e": "LESSON 1 &ndash; &lsquo;The public road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7649",
-    "qid": "18",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit in Flanders on a ordinary road? (... km/h)",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 1 - &#039;The public road&#039;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7650",
-    "qid": "19",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit on an ordinary road in Wallonia? (... km/h)",
-    "s": "90",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 1 &ndash; &lsquo;The public road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7651",
     "qid": "20",
     "qw": "1",
@@ -190,14 +174,6 @@
     "q": "What is the name of the part of the road where you see the yellow line?<br /> <br />A. The public road.<br />B. The road.<br />C. The lane.",
     "s": "b",
     "e": "LESSON 1 &ndash; &lsquo;The public road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7656",
-    "qid": "25",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You drive 105kph on a regular road with a maximum speed limit of 90kph. What are the consequences?<br /><br />A. You&rsquo;ll get a fine.<br />B. Your driving licence will be suspended for a certain period.<br />C. You have to do a theoretical and practical examination again.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 1 &ndash; &lsquo;The public road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7657",
@@ -302,14 +278,6 @@
     "q": "How many lanes do you see on this public road?<br /><br />A. 1.<br />B. 2.<br />C. 3.",
     "s": "c",
     "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7670",
-    "qid": "39",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit in Flanders on a regular road? (... kph)",
-    "s": "70",
-    "e": "LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7671",
@@ -440,14 +408,6 @@
     "e": "LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7687",
-    "qid": "56",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the driver of the blue car allowed to turn left to enter the driveway of his home?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7688",
     "qid": "57",
     "qw": "1",
@@ -462,14 +422,6 @@
     "q": "When the road of a motorway has at least three lanes, the drivers can choose freely what lane to drive. <br /><br />A. Correct.<br />B. Incorrect.",
     "s": "b",
     "e": "LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7690",
-    "qid": "59",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the driver of the red car allowed to overtake the green car on the left.",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 2 &ndash; &lsquo;The lanes&rsquo;. <br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7691",
@@ -494,14 +446,6 @@
     "q": "What is indicated by this yellow line?<br /><br />A. The public road.<br />B. The road.<br />C. The lane.",
     "s": "b",
     "e": "LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7694",
-    "qid": "63",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is car A allowed to turn left?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 2 &ndash; &lsquo;The lanes&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7695",
@@ -558,14 +502,6 @@
     "q": "What is correct? <br />A cycle lane is a part of &hellip; . <br /><br />A. ... the public road.<br />B. ... the road.<br />C. ... the suggested cycle lane.",
     "s": "a",
     "e": "LESSON 3 &ndash; &lsquo;The bicycle lane&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7702",
-    "qid": "71",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the blue car allowed to use the cycle lane a bit in order to overtake the car, that wants to turn left, on the right?<br /><br />A. No<br />B. If he doesn&rsquo;t hinder cyclists.<br />C. Yes, but not more than 50% of the cycle lane.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 3 &ndash; &lsquo;The bicycle lane&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7703",
@@ -744,14 +680,6 @@
     "e": "LESSON 4 &ndash; &lsquo;The motorway&rsquo;. <br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7755",
-    "qid": "94",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The ambulance with your father on board , drives 140 km/hour. <br />Are you allowed to follow the ambulance?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 4 &ndash; &lsquo;The motorway&rsquo;. <br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7756",
     "qid": "95",
     "qw": "1",
@@ -840,14 +768,6 @@
     "e": "LESSON 4 &ndash; &lsquo;The motorway&rsquo;. <br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7767",
-    "qid": "106",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The driver of this car is allowed on that place in Flanders to drive maximum (&hellip;) kph.",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 4 &ndash; &lsquo;The motorway&rsquo;. <br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7768",
     "qid": "107",
     "qw": "1",
@@ -928,28 +848,12 @@
     "e": "LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7798",
-    "qid": "117",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>On this express road in Flanders the driver of the orange car is allowed to drive maximum (&hellip;) km/hour.",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7799",
     "qid": "118",
     "qw": "1",
     "q": "When you need assistance on an express road and there is no emergency phone, you dial the international number (&hellip;).",
     "s": "112",
     "e": "LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7800",
-    "qid": "119",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>On this express road in Flanders the driver of the blue car is allowed to drive maximum (&hellip;) kph.",
-    "s": "50",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7801",
@@ -960,28 +864,12 @@
     "e": "LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7802",
-    "qid": "121",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>On this express road in Wallonia with 2x2 lanes, a car is allowed to drive maximum (&hellip;) kph.",
-    "s": "90",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7803",
     "qid": "122",
     "qw": "1",
     "q": "When a car breaks down or with an accident on an express road the warning triangle must be placed at least (&hellip;) meters behind the vehicle so that other drivers travelling in your direction can see the triangle from a distance of 50 meters.",
     "s": "30",
     "e": "LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7804",
-    "qid": "123",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>On this express road in Flanders with 2x2 lanes you are allowed to drive maximum (&hellip;) kph with a car.",
-    "s": "120",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7805",
@@ -1016,14 +904,6 @@
     "e": "LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7809",
-    "qid": "128",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit (&hellip; km/hour) a car is allowed to drive on this express road within a built up area in Wallonia?",
-    "s": "50",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7810",
     "qid": "129",
     "qw": "1",
@@ -1048,14 +928,6 @@
     "e": "LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7813",
-    "qid": "132",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You want to test your car and you drive 167kph on this express road. <br /><br />A. This is an offence and you will be fined. <br />B. This is an offence and your driving licence can be suspended immediately.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 5 &ndash; &lsquo;The express road&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7814",
     "qid": "133",
     "qw": "1",
@@ -1078,14 +950,6 @@
     "q": "What does the top blue sign mean?<br /><br />A. Start play zone. <br />B. Start residential area. <br />C. Start play court.",
     "s": "b",
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7851",
-    "qid": "136",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>When does the speed limit apply? <br /><br />A. Always. <br />B. Only during the school hours. <br />C. Only during the school hours and not on holidays.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7852",
@@ -1118,14 +982,6 @@
     "q": "This sign indicates the start of a built up area. <br /><br />A. Correct.<br />B. Incorrect.",
     "s": "b",
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7856",
-    "qid": "141",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>In a residential area or estate you are allowed to drive maximum (&hellip;) km/hour.",
-    "s": "20",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7857",
@@ -1176,14 +1032,6 @@
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7863",
-    "qid": "148",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>In Flanders, you are allowed to drive maximum (&hellip;) kph with your car past these sign.",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />Explanation: See Lesson 6.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7864",
     "qid": "149",
     "qw": "1",
@@ -1214,14 +1062,6 @@
     "q": "Are you allowed to cross over a special reserved route with your car to access your home?",
     "s": "yes",
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7868",
-    "qid": "153",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is WRONG? <br />In a residential area or estate &hellip;<br /><br />A. ... children are allowed to play on the road. <br />B. ... you are allowed to drive maximum 25kph with a car. <br />C. ... you are only allowed to park on reserved places.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7869",
@@ -1288,14 +1128,6 @@
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7877",
-    "qid": "162",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You have a driving licence B.<br />When you drive more than (&hellip;) kph too fast, the judge will disqualify you from driving.",
-    "s": "30",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />Exam Tip: read also very well in lesson 12 the difference between a fine and the prohibition of a right for the driving of vehicles."
-  },
-  {
     "id": "7878",
     "qid": "163",
     "qw": "1",
@@ -1310,14 +1142,6 @@
     "q": "You have a temporary driving licence B.<br />Past these signs you drive 73 km/hour. What are the consequences? <br /><br />A. You will only get a fine. <br />B. You risk an immediate temporary suspension of your driving licence. <br />C. The judge will disqualify you from driving.",
     "s": "b",
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />Exam Tip: read also very well in lesson 12 the difference between a fine and the prohibition of a right for the driving of vehicles."
-  },
-  {
-    "id": "7880",
-    "qid": "165",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit of a car in a play street? <br /><br />A. Walking speed.<br />B. 20 km/hour.<br />C. 30 km/hour.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7881",
@@ -1384,28 +1208,12 @@
     "e": "LESSON 7 &ndash; &lsquo;The pedestrians&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
-    "id": "7904",
-    "qid": "174",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A pedestrian is not using or going to use the pedestrian crossing. <br />Is the red car allowed to overtake the blue one on the  left?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 7 &ndash; &lsquo;The pedestrians&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
     "id": "7905",
     "qid": "175",
     "qw": "1",
     "q": "What does this sign mean? <br /><br />A. No entry to pedestrians. <br />B. Pedestrians can cross over the road. <br />C. No entry to all road users, except pedestrians.",
     "s": "a",
     "e": "LESSON 7 &ndash; &lsquo;The pedestrians&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
-  },
-  {
-    "id": "7906",
-    "qid": "176",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The pedestrian is not yet on the crossing.<br />Does the driver have to stop?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 7 &ndash; &lsquo;The pedestrians&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time.<br />The practice questions for the theory lessons are voiced."
   },
   {
     "id": "7907",
@@ -1800,14 +1608,6 @@
     "e": "LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8012",
-    "qid": "227",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Children until the age of (&hellip;), smaller than 1.35m, must be seated in an appropriate safety seat  for children.",
-    "s": "18",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8013",
     "qid": "228",
     "qw": "1",
@@ -1816,28 +1616,12 @@
     "e": "LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8014",
-    "qid": "229",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Children younger than 18 and smaller than (&hellip;)m must be seated in an appropriate safety seat for children.<br /><br />A. 1m35cm.<br />B. 1m45cm.<br />C. 1m55cm.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8015",
     "qid": "230",
     "qw": "1",
     "q": "Which document must be the original in the car? <br />1. Only the registration. <br />2. Only the insurance. <br />3. Only the certificate of conformity. <br />4. All documents except insurance must be original.",
     "s": "4",
     "e": "LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8016",
-    "qid": "231",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Which sign indicates that drivers of vehicles transporting inflammable goods are not allowed to drive past this sign? <br /><br />A. Sign 1.<br />B. Sign 2.<br />C. Sign 3.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8017",
@@ -1854,14 +1638,6 @@
     "q": "This sign indicates that drivers of certain (&hellip;) are not allowed to drive their vehicle past this sign. <br /><br />A. Contaminated goods. <br />B. Dangerous goods. <br />C. Inflammable or explosive goods.",
     "s": "a",
     "e": "LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8019",
-    "qid": "234",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The fuel of your car is LPG or petrol.<br />Are you allowed to drive past this sign with your car? <br /><br />A. Yes.<br />B. No.<br />C. Yes, only when you switch from LPG to petrol.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8020",
@@ -1896,22 +1672,6 @@
     "e": "LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8042",
-    "qid": "239",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The dipped beam headlights must be switched on from sunset until dawn or during the day when you can&rsquo;t see (&hellip;) m ahead due to rain, fog, snow or other circumstances.",
-    "s": "200",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8043",
-    "qid": "240",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You must switch off the headlights or driving lamps when the driver in front of you is less than (&hellip;)m away.",
-    "s": "50",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 11 &ndash; &lsquo;The lights&rsquo;. <br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8044",
     "qid": "241",
     "qw": "1",
@@ -1928,14 +1688,6 @@
     "e": "LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8046",
-    "qid": "243",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The dipped beam headlights or low beam must be used during the day when it&rsquo;s snowing and the visibility is less than (&hellip;)m.",
-    "s": "200",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8047",
     "qid": "244",
     "qw": "1",
@@ -1950,14 +1702,6 @@
     "q": "When it&rsquo;s snowing, the rear fog lights must be used when the visibility is less than (&hellip;) meters.",
     "s": "100",
     "e": "LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8049",
-    "qid": "246",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>During heavy rainfall the dipped beam headlights must be used during the day when the visibility is less than (&hellip;) meters.",
-    "s": "200",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8050",
@@ -2016,14 +1760,6 @@
     "e": "LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8057",
-    "qid": "254",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Which lights must be switched on when you drive in a tunnel and you can&rsquo;t see 200 meters ahead? <br /><br />A. Lights are not obligatory. <br />B. The fog lights. <br />C. The dipped beam headlights.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8058",
     "qid": "255",
     "qw": "1",
@@ -2056,36 +1792,12 @@
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8098",
-    "qid": "259",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>On a speed hump you are allowed to drive maximum (&hellip;) kph.",
-    "s": "30",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8099",
     "qid": "260",
     "qw": "1",
     "q": "Past this sign you are allowed to drive maximum (&hellip;) kph with a car.",
     "s": "50",
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8100",
-    "qid": "261",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>This speed limit only applies &hellip; <br /><br />A. ... to vehicles with a trailer. <br />B. ... on the exit. <br />C. ... when inserting to the motorway.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8101",
-    "qid": "262",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Past these signs in Flanders, you are allowed to drive maximum (&hellip;) kph with a car.",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />Explanation: see lesson 12.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8102",
@@ -2110,22 +1822,6 @@
     "q": "This zone sign applies <br /><br />A. ... only during school hours. <br />B. ... day and night.",
     "s": "b",
     "e": "Explanation: see lesson 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8105",
-    "qid": "266",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The  blue car on this express road in Flanders is allowed to drive maximum (&hellip;) kph.",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />Explanation: see lesson 12.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8106",
-    "qid": "267",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You are allowed to drive maximum (&hellip;) kph with a car on this road in Flanders.",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />Explanation: see lesson 12.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8107",
@@ -2240,14 +1936,6 @@
     "e": "Explanation: see lesson 12"
   },
   {
-    "id": "8121",
-    "qid": "282",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit (&hellip; kph) for these cars at that location in Flanders?",
-    "s": "70",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />Explanation: see lesson 12.<br />In Wallonia 90 km/h.<br />In Brussels region also 70 km/h."
-  },
-  {
     "id": "8122",
     "qid": "283",
     "qw": "1",
@@ -2264,28 +1952,12 @@
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8124",
-    "qid": "285",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit (&hellip; kph) for these cars on this express road within a built up area in Wallonia?",
-    "s": "50",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8125",
     "qid": "286",
     "qw": "1",
     "q": "This blue sign &ldquo;200 m&rdquo; belongs &hellip; <br /><br />A. ... only to the speed sign. <br />B. ... only to the overtaking sign. <br />C. ... to both signs.",
     "s": "a",
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8126",
-    "qid": "287",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed for a car in this street?",
-    "s": "50",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8127",
@@ -2312,28 +1984,12 @@
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8130",
-    "qid": "291",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit (&hellip; kph) for a car at this junction?",
-    "s": "30",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8131",
     "qid": "292",
     "qw": "1",
     "q": "What is the maximum speed limit (&hellip; kph) for this car in this street?",
     "s": "90",
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8132",
-    "qid": "293",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>How many kph are you driving too fast on this road within a built up area in order for the police to take away your driving licence immediately for a certain period of time? <br /><br />A. From more than 20 kph too fast.<br />B. From more than 30 kph too fast.<br />C. From mote than 40 kph too fast.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8133",
@@ -2352,28 +2008,12 @@
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8135",
-    "qid": "296",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You drive too fast in a zone 30.<br />How many kph too fast is needed for the POLICE to withhold your driving licence immediately.  <br /><br />A. More than 20 kph to fast.<br />B. More than 30 kph too fast.<br />C. More than 40 kph too fast.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8136",
     "qid": "297",
     "qw": "1",
     "q": "On regular roads you are allowed to drive maximum 60kph with studded tyres. <br />But when is it allowed? <br /><br />A. In the winter.<br />B. Only when there is snow or ice. <br />C. From the 1st November to the 31st March.",
     "s": "c",
     "e": "LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8137",
-    "qid": "298",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the maximum speed limit you can drive  in a cycle street? <br /><br />A. 20 kph.<br />B. 30 kph.<br />C. Walking pace.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8138",
@@ -2464,28 +2104,12 @@
     "e": "LESSON 13 &ndash; &lsquo;The stopping distance&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8179",
-    "qid": "310",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the driver of the blue car allowed to drive on the reserved cycle lane in order to ease the passing? <br /><br />A. Yes, he is.<br />B. He isn&rsquo;t only allowed to, he must do it. <br />C. No, he isn&rsquo;t.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8180",
     "qid": "311",
     "qw": "1",
     "q": "A driver who is sees this sign at a narrow passage, must give way to approaching traffic. <br /><br />A. Correct.<br />B. Incorrect.",
     "s": "a",
     "e": "LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8182",
-    "qid": "313",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is a driver allowed to drive on the levelled verge to ease the passing?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8183",
@@ -2502,22 +2126,6 @@
     "q": "This sign indicates a narrow passage. <br />What kind of sign is it? <br /><br />A. An information sign. <br />B. A warning sign. <br />C. A priority sign.",
     "s": "b",
     "e": "LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />Triangular signs with a red border are usually warning or danger signs.<br />Warning signs stand 150 meters for a danger."
-  },
-  {
-    "id": "8185",
-    "qid": "316",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Are you allowed to overtake a tram on the left when you come across an obstacle on the road?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8186",
-    "qid": "317",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What do these cars have to do at this junction? <br /><br />A. They pas each other on the right. <br />B. They pas each other on the left.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8187",
@@ -2592,14 +2200,6 @@
     "e": "LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8196",
-    "qid": "327",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A suggested/reserved cycle lane.<br />When passing a car &hellip; <br /><br />A. ... you are not allowed to drive on it. <br />B. ... you are allowed to drive on it. <br />C. ... you must drive on it.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8197",
     "qid": "328",
     "qw": "1",
@@ -2614,22 +2214,6 @@
     "q": "What kind of sign is the bottom sign? <br /><br />A. A priority sign. <br />B. A warning sign. <br />C. A prohibitive sign.",
     "s": "a",
     "e": "LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8199",
-    "qid": "330",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Which picture is the right one? <br /><br />A. Picture 1.<br />B. Picture 2.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8200",
-    "qid": "331",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who has priority?<br /><br />A. Car A.<br />B. Car B.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8201",
@@ -2680,44 +2264,12 @@
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8249",
-    "qid": "338",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the driver of a car allowed to overtake a lorry on the left past this sign?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8250",
     "qid": "339",
     "qw": "1",
     "q": "The brown car drives 48kph. <br />Is the blue car allowed to overtake it on the left?",
     "s": "no",
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8251",
-    "qid": "340",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is a motorcycle allowed to overtake a car on the left past this sign?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8252",
-    "qid": "341",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the blue car allowed to overtake the brown lorry on the left?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8253",
-    "qid": "342",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A level crossing without white lights and no barriers. <br />Is a car allowed to overtake a motorcycle on the left?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8254",
@@ -2734,14 +2286,6 @@
     "q": "On a motorway with at least three lanes you are allowed to choose the lane you drive on.  <br /><br />A. Correct.<br />B. Incorrect.",
     "s": "b",
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8256",
-    "qid": "345",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is a motorcycle allowed to overtake a car on the left past these signs?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8257",
@@ -2774,14 +2318,6 @@
     "q": "You drive on a road with this traffic sign on it. <br />Are you allowed to overtake a car on the left at the next junction, when it is safe?",
     "s": "yes",
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8261",
-    "qid": "350",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>There are no cyclists on and near the crossing.<br />Is the blue car allowed to overtake the brown one on the left?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8262",
@@ -2840,14 +2376,6 @@
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8269",
-    "qid": "358",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The blue car is slowing down.<br />Is the grey car allowed to overtake on the left? <br /><br />A. No.<br />B. Yes.<br />C. Yes, if there is no pedestrian.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8270",
     "qid": "359",
     "qw": "1",
@@ -2864,14 +2392,6 @@
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8272",
-    "qid": "361",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>If you want to overtake this cyclist on the left outside a built up area, you have to leave a safe space in between of &hellip; <br /><br />A. ... 1 meter.<br />B. ... 1,5 meter.<br />C. ... 2 meters.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8273",
     "qid": "362",
     "qw": "1",
@@ -2886,14 +2406,6 @@
     "q": "You have a provisional driving licence B. <br />Are you allowed to overtake a lorry on the left as soon as you pass this sign?",
     "s": "yes",
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8275",
-    "qid": "364",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You have a provisional driving licence B. <br />Are you allowed to overtake a horse in harness on the left with a car?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8276",
@@ -2918,22 +2430,6 @@
     "q": "Give the most correct answer.<br />On a speed hump a driver of a car is not allowed to overtake&hellip; <br /><br />A. ... a car on the left. <br />B. ... a car or a moped on the left. <br />C. ... a car, a moped or a cyclist on the left.",
     "s": "b",
     "e": "LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8279",
-    "qid": "368",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>If you want to overtake this cyclist on the left outside a built up area, you have to leave a safe space in between of &hellip; <br /><br />A. ... 1 meter.<br />B. ... 1,5 meter.<br />C. ... 2 meters.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8280",
-    "qid": "369",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>If you want to overtake this cyclist on the left outside a built up area, you have to leave a safe space in between of &hellip; <br /><br />A. ... 1 meter.<br />B. ... 1,5 meter.<br />C. ... 2 meters.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 15 +16 &ndash; &lsquo;Overtaking&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8281",
@@ -2984,14 +2480,6 @@
     "e": "LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8378",
-    "qid": "376",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Two arms stretched out horizontally have the same meaning as one arm.  <br /><br />A. Correct.<br />B. Incorrect.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8379",
     "qid": "377",
     "qw": "1",
@@ -3006,14 +2494,6 @@
     "q": "Traffic sergeants, group leaders for cyclists or motorcyclists on a junction with traffic lights have the same authorisation as an authorized person. <br /><br />A. Correct.<br />B. Incorrect.",
     "s": "b",
     "e": "LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8381",
-    "qid": "379",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A police car with blue flashing lights and warning signal. <br />What do you do? <br /><br />A. You give priority. <br />B. You drive faster in order to stay ahead. <br />C. You just drive on as if nothing is happening.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8382",
@@ -3032,28 +2512,12 @@
     "e": "LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8384",
-    "qid": "382",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the blue car allowed to cross over the junction?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8385",
     "qid": "383",
     "qw": "1",
     "q": "Does the ambulance with flashing lights and warning signal have to stop?",
     "s": "yes",
     "e": "LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8386",
-    "qid": "384",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who is allowed to cross the junction? <br /><br />A. The blue car.<br />B. The brown car.<br />C. Not the blue car nor the brown one.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8387",
@@ -3064,116 +2528,12 @@
     "e": "LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8388",
-    "qid": "386",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the red car allowed to cross the junction?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8389",
-    "qid": "387",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who is allowed to cross the junction? <br /><br />A. The green car.<br />B. The blue car.<br />C. The moped.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8390",
-    "qid": "388",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The driver of the black car wants to turn left. <br /><br />A. He is allowed.<br />B. He is only allowed to drive on.<br />C. He must stop.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8391",
-    "qid": "389",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who is allowed to cross the junction? <br /><br />A. The blue and the green car.<br />B. The brown car and the moped.<br />C. No one.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8392",
-    "qid": "390",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who must stop?<br /><br />A. The blue car.<br />B. Everyone. <br />C. The red car and the moped.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8393",
-    "qid": "391",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the blue car still allowed to turn left?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8394",
-    "qid": "392",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who is allowed to cross the junction? <br /><br />A. No one.<br />B. The moped.<br />C. The brown car.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8395",
-    "qid": "393",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Which order does the police officer give? <br /><br />A. The driver must stop next to the road. <br />B. The driver must turn left.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8396",
-    "qid": "394",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The driver of this car must stop. <br /><br />A. Correct.<br />B. Incorrect.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8397",
-    "qid": "395",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The driver of the moped &hellip; <br /><br />A. ... is allowed to drive straight through. <br />B. ... must turn left. <br />C. ... must stop.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8398",
     "qid": "396",
     "qw": "1",
     "q": "The dipped headlights are switched on. <br />What is your reaction. <br /><br />A. You just drive on. <br />B. You give priority.",
     "s": "a",
     "e": "LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8399",
-    "qid": "397",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You approach this police officer with your car. <br /><br />A. You are allowed to cross the junction.<br />B. You must stop.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8400",
-    "qid": "398",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You approach this junction.<br />Do you have to stop?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8401",
-    "qid": "399",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The traffic lights are out of order.<br />Who is allowed to cross first? <br /><br />A. The moped.<br />B. The red car.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8402",
@@ -3208,22 +2568,6 @@
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8406",
-    "qid": "404",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The traffic lights turn amber.<br />The blue car &hellip; <br /><br />A. ... must always stop.<br />B. ... is allowed to drive past the amber lights if it can&rsquo;t stop safely anymore.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8407",
-    "qid": "405",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A yellow arrow above a lane means &hellip; <br /><br />A. ... you must leave the lane. <br />B. ... you must take the first exit. <br />C. ... the first exit is closed.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8408",
     "qid": "406",
     "qw": "1",
@@ -3240,28 +2584,12 @@
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8410",
-    "qid": "408",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The driver of the brown car wants to cross at the junction. <br />Does he have to consider the red light?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8411",
     "qid": "409",
     "qw": "1",
     "q": "Past the flashing amber light &hellip; <br /><br />A. ... you are not allowed to drive.<br />B. ... you are allowed to drive and you have priority. <br />C. ... you are allowed to drive and you have to apply the normal priority rules.",
     "s": "c",
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8412",
-    "qid": "410",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The barriers are going down.<br />You are only allowed to pass the red flashing lights and the lowering barriers when you can&rsquo;t stop safely anymore. <br /><br />A. Correct.<br />B. You are under no circumstances allowed to pass.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8413",
@@ -3304,14 +2632,6 @@
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8418",
-    "qid": "416",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You want to turn right.<br />Do you have to stop first, before you cross the junction?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8419",
     "qid": "417",
     "qw": "1",
@@ -3320,36 +2640,12 @@
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8420",
-    "qid": "418",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Does the driver of the blue car have to give right of way to the pedestrian?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8421",
     "qid": "419",
     "qw": "1",
     "q": "You approach a red traffic lights with your car.<br />You stop in front of &hellip; <br /><br />A. ... the first stop line.<br />B. ... the second stop line.",
     "s": "a",
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8422",
-    "qid": "420",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The green filter arrow is lit up. <br />Is the driver of the blue car still allowed to cross at the junction and turn left?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8423",
-    "qid": "421",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The arrow you see here is a green filter arrow which indicates that the drivers who are already on the junction can drive safely to the left. <br /><br />A. Correct.<br />B. False.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8424",
@@ -3374,14 +2670,6 @@
     "q": "This picture is taken from the car you drive in. <br /><br />A. You must stop.<br />B. You must, if necessary, give priority.",
     "s": "b",
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8429",
-    "qid": "425",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You see these lights. <br />What can you do?<br /><br />A. Just turn right.<br />B. Straight ahead or turn right.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8430",
@@ -3992,14 +3280,6 @@
     "e": "LESSON 20 &ndash; &lsquo;Priority form the right&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8697",
-    "qid": "502",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who is allowed to cross first at the junction? <br /><br />A. The blue car.<br />B. The brown car.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 21 &ndash; &lsquo;Priority and changing directions&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8698",
     "qid": "503",
     "qw": "1",
@@ -4078,14 +3358,6 @@
     "q": "Who has priority?<br /><br />A. Car A.<br />B. Car B.",
     "s": "a",
     "e": "LESSON 21 &ndash; &lsquo;Priority and changing directions&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8708",
-    "qid": "513",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Who has priority?<br /><br />A. Car A.<br />B. Car B.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 21 &ndash; &lsquo;Priority and changing directions&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "8709",
@@ -4344,22 +3616,6 @@
     "e": "LESSON 22<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "8742",
-    "qid": "547",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>You hear the warning bell sound, but the barriers are still completely open. <br /><br />A. You are allowed to drive through. <br />B. You must stop.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 22<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "8743",
-    "qid": "548",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Are you allowed to come out of this street with a car?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "8744",
     "qid": "549",
     "qw": "1",
@@ -4384,28 +3640,12 @@
     "e": "LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This prohibitive sign indicates no entry past this sign to drivers of all vehicles having more than two wheels or motorcycles with a side car."
   },
   {
-    "id": "8747",
-    "qid": "552",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is the blue car allowed to turn right?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This prohibitive sign indicates no entry to any driver (including cyclists) to drive past this sign in this direction."
-  },
-  {
     "id": "8748",
     "qid": "553",
     "qw": "1",
     "q": "Are you allowed to drive past this sign with a car?",
     "s": "yes",
     "e": "LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This positive instruction sign means: no through road."
-  },
-  {
-    "id": "8749",
-    "qid": "554",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What does this sign indicate? <br /><br />A. The M.G.W. <br />B. The M.A.W.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />Tip exam: learn very well in your book (chapter 9) the difference between M.A.W. and M.G.W."
   },
   {
     "id": "8750",
@@ -4430,22 +3670,6 @@
     "q": "What does this traffic sign mean? <br /><br />A. No oncoming traffic. <br />B. From here until the next junction no U-turn. <br />C. No left turn.",
     "s": "b",
     "e": "LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This sign indicates that form this sign on until the next junction (also there) a U turn is prohibited."
-  },
-  {
-    "id": "8753",
-    "qid": "558",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Are you allowed to drive past this sign with a car?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This prohibitive sign indicates no entry to any driver, with the exception of cyclists, pedelecs and mopeds class A to drive past this sign in this direction."
-  },
-  {
-    "id": "8754",
-    "qid": "559",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Are all passenger cars allowed to drive past this sign?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />Only cars with a maximum gross weight of 2,5 ton."
   },
   {
     "id": "8755",
@@ -4504,14 +3728,6 @@
     "e": "LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This sign means: no entry in this direction to drivers of motorcycles."
   },
   {
-    "id": "8762",
-    "qid": "567",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>This sign indicates &hellip; <br /><br />A. ... the M.A.W. (Maximum Authorized Weight). <br />B. ... the M.G.W. (Maximum Gross Weight).",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />Tip exam: learn very well in your book (chapter 9) the difference between M.A.W. and M.G.W."
-  },
-  {
     "id": "8763",
     "qid": "568",
     "qw": "1",
@@ -4534,14 +3750,6 @@
     "q": "The driver of this car is allowed &hellip; <br /><br />A. ... to turn left. <br />B. ... to turn right. <br />C. ... to drive straight through.",
     "s": "b",
     "e": "LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />This sign indicates that turning to the left is prohibited at the next junction to all drivers."
-  },
-  {
-    "id": "8766",
-    "qid": "571",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is a car allowed to drive past this sign?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 23 &ndash; &lsquo;Prohibited direction&rsquo;.<br />Tip exam: learn very well in your book (chapter 9) the difference between M.A.W. and M.G.W."
   },
   {
     "id": "8767",
@@ -6480,14 +5688,6 @@
     "e": "LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.      <br />You must not cross the crossroads unless the light is green and the crossroads are free. But you cannot block the crossing point while waiting."
   },
   {
-    "id": "11161",
-    "qid": "814",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Can you send a text while waiting in the car for a red light?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.   <br />That is prohibited."
-  },
-  {
     "id": "11162",
     "qid": "815",
     "qw": "1",
@@ -6592,14 +5792,6 @@
     "e": "LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />In a residential area, you may park left and right of your direction of travel on the indicated parking places."
   },
   {
-    "id": "11175",
-    "qid": "828",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is correct?<br />In a residential area ...<br /><br />A. ... is the maximum speed limit 25 km/hour.<br />B. ... are cars allowed to park on the left and right of the direction of travel.<br />C. ... may pedestrians and cyclists use the full lane.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 6 &ndash; &lsquo;Special places&rsquo;.<br />The maximum speed limit is 20 km/hour.<br />Only pedestrians may use the full road."
-  },
-  {
     "id": "11176",
     "qid": "829",
     "qw": "1",
@@ -6670,14 +5862,6 @@
     "q": "You have a provisional driving license B.<br />Can you pull a trailer with your car?",
     "s": "no",
     "e": "LESSON 10 &ndash; &lsquo;The load and the passenger spaces&rsquo;.<br />With a provisional driving license B you cannot pull a trailer."
-  },
-  {
-    "id": "11188",
-    "qid": "838",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A school bus has stopped and the hazard warning lights are being used. What do you have to do? <br /><br />A. Stop.<br />B. Slow down and stop if necessary. <br />C. Drive on.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 11 &ndash; &lsquo;The lights&rsquo;.<br />If a school bus stops so that students can go out, the driver has to switch on the four direction indicators or hazard warning lights.<br />Upcoming vehicles are obliged to reduce speed and if it is necessary to stop<br />They should be careful while driving by the bus."
   },
   {
     "id": "11189",
@@ -6752,36 +5936,12 @@
     "e": "LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />The traffic regulations don&rsquo;t define &#039;how much&#039; it must be. There is written: &#039;sufficient&#039;."
   },
   {
-    "id": "11199",
-    "qid": "848",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>In this street, two cars want to cross each other.<br />How much lateral distance must be kept?<br /><br />A. Sufficient.<br />B. 1,5 meters.<br />C. 1 meter.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />The traffic regulations don&rsquo;t define &#039;how much&#039; it must be. There is written: &#039;sufficient&#039;."
-  },
-  {
     "id": "11200",
     "qid": "849",
     "qw": "1",
     "q": "What is the meaning of this sign?<br /><br />A. Give priority to drivers coming from the other direction<br />B. Traffic allowed in both direction, after first only one way direction.",
     "s": "b",
     "e": "LESSON 14 &ndash; &lsquo;Crossing&rsquo;.<br />The sign that says that you should give priority, is a round sign with a red and black arrow."
-  },
-  {
-    "id": "11201",
-    "qid": "850",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The blue car driver approaches the back of the agent.<br /><br />A. He must stop.<br />B. He may turn to the right.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />If an officer has one or two arms stretched out horizontally, this is a stop signal for all traffic approaching from in front of or from behind the outstretched arms."
-  },
-  {
-    "id": "11202",
-    "qid": "851",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is the hierarchical order?<br /><br />A. 1 - 2 - 3.<br />B. 3 - 2 - 1.<br />C. 3 - 1 - 2.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 17 &ndash; &lsquo;Qualified persons&rsquo;.<br />At the top of the commands of an agent.<br />Then the traffic lights.<br />Than the road signs.<br />Then the traffic rules."
   },
   {
     "id": "11203",
@@ -6830,22 +5990,6 @@
     "q": "When there is a problem of the &#039;dead angle&rsquo;?<br /><br />A. Always.<br />B. Only if the mirrors are incorrectly adjusted.",
     "s": "a",
     "e": "LESSON 21 &ndash; &lsquo;Priority and changing directions&rsquo;.<br />Mirrors must be always correctly adjusted before you drive.<br />But there is always a point that you can&#039;t see in the mirrors: the dead angle"
-  },
-  {
-    "id": "11209",
-    "qid": "858",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>A crossroad without traffic signs.<br />In what situation the pedestrian has priority?<br /><br />A. Only drawing A.<br />B. Only drawing B.<br />C. Drawing A + B.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 21 &ndash; &lsquo;Priority and changing directions&rsquo;.<br />A car that changes direction, should give priority to pedestrians who cross the road where the car wants to go."
-  },
-  {
-    "id": "11210",
-    "qid": "859",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>An intersection with traffic signs.<br />In what situation the pedestrian has priority?<br /><br />A. Only drawing A.<br />B. Only drawing B.<br />C. Drawing A + B.",
-    "s": "c",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 21 &ndash; &lsquo;Priority and changing directions&rsquo;.<br />A car that changes direction, should give priority to pedestrians who cross the road where the car wants to go."
   },
   {
     "id": "11211",
@@ -6976,14 +6120,6 @@
     "e": "LESSON 3 &ndash; &lsquo;The bicycle lane&rsquo;.<br />This sign means that you should be careful when changing direction, because cyclists and riders of two-wheeled mopeds follow the same public road."
   },
   {
-    "id": "12329",
-    "qid": "876",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Your girlfriend lives in this pedestrian zone. <br />Can you drive your car to her home?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 7 &ndash; &lsquo;The pedestrians&rsquo;.<br />No, that is not allowed."
-  },
-  {
     "id": "12330",
     "qid": "877",
     "qw": "1",
@@ -7014,22 +6150,6 @@
     "q": "You are in possession of a driving licence B. You drive in a car with a M.A.W. of 2500 kg. <br />How much is the maximum M.A.W. your trailer can have?<br /><br />A. 500 kg.<br />B. 1000 kg.<br />C. 1500 kg.",
     "s": "b",
     "e": "LESSON 9 &ndash; &lsquo;M.A.W. and M.G.W.&rsquo;.<br />As the M.A.W. of the trailer is more than 750 kg, a driving licence B shall be sufficient provided that the M. A.W. of the assembly (car + trailer) does not exceed 3500 kg."
-  },
-  {
-    "id": "12339",
-    "qid": "881",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The barriers are still fully open, but the alarm signal is clearly audible.<br />Can you still drive on the road?",
-    "s": "no",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.   <br />No. That would be a serious offense !!!"
-  },
-  {
-    "id": "12340",
-    "qid": "882",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The traffic light turns orange.<br />Can you still cross the intersection? <br /><br />A. Yes.<br />B. Yes, if you endanger others by stopping.<br />C. No.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 18 &ndash; &lsquo;Traffic lights&rsquo;.   <br />Orange says you have to stop. Except if you are too close to the intersection, and you put the driver behind you at risk."
   },
   {
     "id": "12342",
@@ -7152,28 +6272,12 @@
     "e": "You may overtake near the top of a cluttered slope if the road is divided into lanes and you do not drive over the white continuous line."
   },
   {
-    "id": "12377",
-    "qid": "898",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Is it allowed to overtake a moped on the left beyond this sign?",
-    "s": "yes",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 16<br />The red sign says that drivers are forbidden to overtake a vehicle with more than two wheels on the left."
-  },
-  {
     "id": "12378",
     "qid": "899",
     "qw": "1",
     "q": "Can the blue car cross the brown by the right in a built-up area?",
     "s": "yes",
     "e": ""
-  },
-  {
-    "id": "12379",
-    "qid": "900",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>What is right?<br />Beyond this sign....<br /><br />A..... a car may overtake a motorcycle on the left.<br />B..... a motorcycle may overtake a car on the left.<br />C..... a car or motorcycle may not overtake on the left.",
-    "s": "a",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 16<br />The red sign says that drivers are forbidden to overtake a vehicle with more than two wheels on the left."
   },
   {
     "id": "12380",
@@ -7208,14 +6312,6 @@
     "e": "LESSON 12 &ndash; &lsquo;Speed&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
-    "id": "12389",
-    "qid": "905",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>The police will stop you, because you drive 75 km/h in a built-up area.<br />What are the consequences?<br /><br />A. You must pay a fine to the police.<br />B. Your driving licence can be withdrawn immediately and temporarily.<br />C. You must appear before the police judge within 14 days.",
-    "s": "b",
-    "e": "[Violations of the 3th and 4th degree on our page Theory B: nr. 32]<br />LESSON 12 &ndash; &lsquo;Speed&rsquo;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
     "id": "12390",
     "qid": "906",
     "qw": "1",
@@ -7238,14 +6334,6 @@
     "q": "In a cyclists zone you may not overtake a cyclist on the left.<br />But may you overtake a cyclist on the right?<br /><br />A. Yes.<br />B. Yes, provided that you leave a lateral distance of 1 meter.<br />C. No.",
     "s": "c",
     "e": "LESSON 12 - &#039;Speed&#039;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
-  },
-  {
-    "id": "12445",
-    "qid": "909",
-    "qw": "5",
-    "q": "<p class=\"question_weight\">*** 5 points question ***</p>Can you overtake a moped on the left at this level crossing?<br /><br />A. No, overtaking on the left is forbidden,<br />B. No, only a cyclist.<br />C. Yes.",
-    "s": "c",
-    "e": "LESSON 22 - &#039;Train, tram, bus&#039;.<br />It is very important to read the theory lessons if you want to pass the real exam from the first time. The practice questions for the theory lessons are with voice."
   },
   {
     "id": "12451",
