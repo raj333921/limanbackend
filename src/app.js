@@ -11,9 +11,8 @@ app.use(cors());
 app.use(express.json());
 app.use("/uploads/images", express.static("uploads/images"));
 
-app.use("/auth", authRoutes);
-app.use("/quiz", quizRoutes);
-app.use("/admin", adminRoutes);
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.use("/limanplatform/auth", authRoutes);
+app.use("/limanplatform/quiz", quizRoutes);
+app.use("/limanplatform/admin", adminRoutes);
+console.log('app is running');
+module.exports = app;

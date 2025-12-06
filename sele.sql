@@ -38,9 +38,15 @@ CREATE TABLE IF NOT EXISTS activation_codes (
 -- Insert a sample admin
 -- Password hash for 'password123'
 INSERT INTO admins(email, password) VALUES (
-  'admin@example.com',
-  '$2a$10$Zp6rJZfHtKn/uFJr1bqV9eZxF.6eOaN4Rzqhj6xM/0Zgdrf4JbXYC'
+  'admin@liman.com',
+  'password123'
 );
+
+GRANT ALL PRIVILEGES ON TABLE easy_questions TO sachvkfl_liman;
+GRANT USAGE, SELECT ON SEQUENCE easy_questions_id_seq TO sachvkfl_liman;
+GRANT ALL PRIVILEGES ON TABLE hard_questions TO sachvkfl_liman;
+GRANT USAGE, SELECT ON SEQUENCE hard_questions_id_seq TO sachvkfl_liman;
+
 
 -- Insert a sample activation code
 INSERT INTO activation_codes(code, expires_at)
@@ -51,3 +57,6 @@ VALUES ('TESTCODE124', NOW() + INTERVAL '1 days');
 
 INSERT INTO activation_codes(code, expires_at)
 VALUES ('TESTCODE120', NOW() + INTERVAL '10 days');
+
+
+

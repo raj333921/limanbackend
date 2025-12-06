@@ -18,7 +18,7 @@ exports.getQuestionsUnAuth = async (req, res) => {
       `SELECT id, 'hard' AS level, (question->0->>$1) AS question, options, correct_option, explanation, image_path
        FROM hard_questions
        ORDER BY RANDOM()
-       LIMIT 45`,
+       LIMIT 46 `,
       [lang]
     );
     const allQuestions = [...easyQuery.rows, ...hardQuery.rows].map(q => {

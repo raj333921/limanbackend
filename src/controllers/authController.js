@@ -33,8 +33,7 @@ exports.activateCode = async (req, res) => {
   try {
     const result = await pool.query(
       `SELECT * FROM activation_codes
-       WHERE code = $1
-         AND (expires_at IS NULL OR expires_at > NOW())`,
+       WHERE code = $1`,
       [code.trim().toUpperCase()]
     );
 
