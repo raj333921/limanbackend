@@ -32,7 +32,8 @@ CREATE TABLE IF NOT EXISTS activation_codes (
   id SERIAL PRIMARY KEY,
   code TEXT UNIQUE NOT NULL,
   is_used BOOLEAN DEFAULT false,
-  expires_at TIMESTAMP WITH TIME ZONE NOT NULL   -- expiry date/time
+  email TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 -- Insert a sample admin
@@ -42,6 +43,7 @@ INSERT INTO admins(email, password) VALUES (
   'password123'
 );
 
+GRANT ALL PRIVILEGES ON TABLE activation_codes TO sachvkfl_liman;
 GRANT ALL PRIVILEGES ON TABLE easy_questions TO sachvkfl_liman;
 GRANT USAGE, SELECT ON SEQUENCE easy_questions_id_seq TO sachvkfl_liman;
 GRANT ALL PRIVILEGES ON TABLE hard_questions TO sachvkfl_liman;
@@ -49,8 +51,8 @@ GRANT USAGE, SELECT ON SEQUENCE hard_questions_id_seq TO sachvkfl_liman;
 
 
 -- Insert a sample activation code
-INSERT INTO activation_codes(code, expires_at)
-VALUES ('TESTCODE123', NOW() + INTERVAL '30 days');
+INSERT INTO activation_codes(code, email)
+VALUES ('TESTCODE123', 'raj333921@gmail.com');
 
 INSERT INTO activation_codes(code, expires_at)
 VALUES ('TESTCODE124', NOW() + INTERVAL '1 days');

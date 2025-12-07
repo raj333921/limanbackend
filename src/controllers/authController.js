@@ -29,12 +29,12 @@ exports.adminLogin = async (req, res) => {
 
 // User activation code login
 exports.activateCode = async (req, res) => {
-  const { code } = req.body;
+  const { code, email } = req.body;
   try {
     const result = await pool.query(
       `SELECT * FROM activation_codes
-       WHERE code = $1`,
-      [code.trim().toUpperCase()]
+       WHERE code = $1 and email = $2`,
+      [code.trim().toUpperCase(),email.trim().toLowerCase()]
     );
 
     if (result.rows.length === 0) {
@@ -42,8 +42,8 @@ exports.activateCode = async (req, res) => {
     }
 
     await pool.query(
-      "UPDATE activation_codes SET is_used = true WHERE code = $1",
-      [code.trim().toUpperCase()]
+      "UPDATE activation_codes SET is_used = true WHERE code = $1 and email = $2",
+      [code.trim().toUpperCase(),email.trim().toLowerCase()]
     );
 
     const token = jwt.sign({ code }, process.env.JWT_SECRET, { expiresIn: "2h" });

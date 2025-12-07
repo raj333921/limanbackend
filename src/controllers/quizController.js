@@ -2,6 +2,7 @@ const pool = require("../config/db");
 const fs = require("fs");
 const path = require("path");
 
+
 exports.getQuestionsUnAuth = async (req, res) => {
   const { lang = "en" } = req.query;
 
@@ -10,7 +11,7 @@ exports.getQuestionsUnAuth = async (req, res) => {
       `SELECT id, 'easy' AS level, (question->0->>$1) AS question, options, correct_option, explanation,image_path
        FROM easy_questions
        ORDER BY RANDOM()
-       LIMIT 5`,
+       LIMIT 45`,
       [lang]
     );
 
@@ -18,7 +19,7 @@ exports.getQuestionsUnAuth = async (req, res) => {
       `SELECT id, 'hard' AS level, (question->0->>$1) AS question, options, correct_option, explanation, image_path
        FROM hard_questions
        ORDER BY RANDOM()
-       LIMIT 46 `,
+       LIMIT 5`,
       [lang]
     );
     const allQuestions = [...easyQuery.rows, ...hardQuery.rows].map(q => {
