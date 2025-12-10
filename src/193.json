@@ -4,11 +4,11 @@
     "id": 403,
     "qid": "494",
     "qw": "1",
-    "q": "Who has priority ?<br /><br />A. The tram.<br />B. The car.",
+    "q": "Who has priority ?",
     "s": "a",
     "e": "Priority form the right",
-    "optiona": "",
-    "optionb": "",
+    "optiona": "The tram.",
+    "optionb": "The car.",
     "optionc": ""
   },
   {
