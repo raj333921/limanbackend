@@ -5,6 +5,7 @@ require("dotenv").config();
 const authRoutes = require("./routes/authRoutes");
 const quizRoutes = require("./routes/quizRoutes");
 const adminRoutes = require("./routes/adminRoutes");
+const tokenRoutes = require("./routes/tokenRoutes");
 
 const app = express();
 app.use(cors());
@@ -14,6 +15,7 @@ app.use("/uploads/images", express.static("uploads/images"));
 app.use("/limanplatform/auth", authRoutes);
 app.use("/limanplatform/quiz", quizRoutes);
 app.use("/limanplatform/admin", adminRoutes);
+app.use("/limanplatform/token", tokenRoutes);
 console.log('app is running');
 module.exports = app;
 
