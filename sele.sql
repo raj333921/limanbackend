@@ -60,5 +60,13 @@ VALUES ('TESTCODE124', NOW() + INTERVAL '1 days');
 INSERT INTO activation_codes(code, expires_at)
 VALUES ('TESTCODE120', NOW() + INTERVAL '10 days');
 
+-- AuditTrails
+CREATE TABLE IF NOT EXISTS audit_trails (
+  id SERIAL PRIMARY KEY,
+  history TEXT NOT NULL,
+  os TEXT NOT NULL,
+  lang TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
 
