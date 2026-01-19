@@ -84,3 +84,20 @@ exports.deleteActivationCode = async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 };
+
+
+exports.getActivationCodeById = async (req, res) => {
+  const { id } = req.params;
+  try {
+    const result = await pool.query(
+      `select * FROM activation_codes WHERE id = $1`,
+      [id]
+    );
+    if (result.rowCount === 0) {
+      return res.status(404).json({ message: "Activation code not found" });
+    }
+    res.json(result.rows[0]);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
