@@ -1,14 +1,14 @@
 const express = require("express");
 const router = express.Router();
 const { createActivationCode, getActivationCodes, updateActivationCode, deleteActivationCode } = require("../controllers/tokenController");
+const userAuth = require("../middleware/userAuth");
+
 router.get('/test', (req, res) => {
     res.send('server is ready');
 });
-
-
-router.post("/", createActivationCode);
-router.get("/", getActivationCodes);
-router.put("/:id", updateActivationCode);
-router.delete("/:id", deleteActivationCode);
+router.post("/",userAuth, createActivationCode);
+router.get("/",userAuth, getActivationCodes);
+router.put("/:id",userAuth, updateActivationCode);
+router.delete("/:id",userAuth, deleteActivationCode);
 
 module.exports = router;
