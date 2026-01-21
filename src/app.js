@@ -16,6 +16,7 @@ app.use("/limanplatform/auth", authRoutes);
 app.use("/limanplatform/quiz", quizRoutes);
 app.use("/limanplatform/admin", adminRoutes);
 app.use("/limanplatform/token", tokenRoutes);
+app.use("/limanplatform/signalsigns", tokenRoutes);
 console.log('app is running');
 module.exports = app;
 

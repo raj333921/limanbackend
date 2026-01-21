@@ -70,3 +70,12 @@ CREATE TABLE IF NOT EXISTS audit_trails (
 );
 
 
+-- signal_signs
+CREATE TABLE IF NOT EXISTS signal_signs (
+  id SERIAL PRIMARY KEY,
+  type TEXT NOT NULL,
+  explanation JSONB NOT NULL,
+  image_path TEXT
+);
+
+
