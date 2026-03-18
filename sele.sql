@@ -78,4 +78,15 @@ CREATE TABLE IF NOT EXISTS signal_signs (
   image_path TEXT
 );
 
+-- signal_signs
+CREATE TABLE IF NOT EXISTS score_card (
+  id SERIAL PRIMARY KEY,
+  email TEXT NOT NULL,
+  score TEXT NOT NULL,
+  type TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+CREATE INDEX idx_score_email ON score_card(email);
 
