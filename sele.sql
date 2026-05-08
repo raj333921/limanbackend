@@ -71,7 +71,6 @@ CREATE TABLE IF NOT EXISTS audit_trails (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-
 -- signal_signs
 CREATE TABLE IF NOT EXISTS signal_signs (
   id SERIAL PRIMARY KEY,
