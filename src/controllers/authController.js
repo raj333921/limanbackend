@@ -29,7 +29,7 @@ exports.adminLogin = async (req, res) => {
 
 // User activation code login
 exports.activateCode = async (req, res) => {
-  const { code, email } = req.body;
+  const { code, email, os, lang } = req.body;
   try {
     const result = await pool.query(
       `SELECT * FROM activation_codes
@@ -45,6 +45,15 @@ exports.activateCode = async (req, res) => {
       "UPDATE activation_codes SET is_used = true WHERE code = $1 and email = $2",
       [code.trim().toUpperCase(),email.trim().toLowerCase()]
     );
+
+    try {
+      await pool.query(
+        'INSERT INTO audit_trails ("history", "os", "lang") VALUES ($1, $2, $3)',
+        [code, os || "unknown", lang || "unknown"]
+      );
+    } catch (e) {
+      console.error("Audit trail insert failed:", e.message);
+    }
 
     const token = jwt.sign({ code }, process.env.JWT_SECRET, { expiresIn: "2h" });
     res.json({ token });

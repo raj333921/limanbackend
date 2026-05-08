@@ -2,7 +2,8 @@
 CREATE TABLE IF NOT EXISTS admins (
     id SERIAL PRIMARY KEY,
     email TEXT UNIQUE NOT NULL,
-    password TEXT NOT NULL
+    password TEXT NOT NULL,
+    company TEXT NOT NULL
 );
 
 -- Easy questions
@@ -33,14 +34,15 @@ CREATE TABLE IF NOT EXISTS activation_codes (
   code TEXT UNIQUE NOT NULL,
   is_used BOOLEAN DEFAULT false,
   email TEXT NOT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 );
 
 -- Insert a sample admin
 -- Password hash for 'password123'
-INSERT INTO admins(email, password) VALUES (
-  'admin@liman.com',
-  'password123'
+INSERT INTO admins(email, password, company) VALUES (
+  'admin@limangroup.com',
+  'password123',
+  'liman'
 );
 
 GRANT ALL PRIVILEGES ON TABLE activation_codes TO sachvkfl_liman;
@@ -60,5 +62,32 @@ VALUES ('TESTCODE124', NOW() + INTERVAL '1 days');
 INSERT INTO activation_codes(code, expires_at)
 VALUES ('TESTCODE120', NOW() + INTERVAL '10 days');
 
+-- AuditTrails
+CREATE TABLE IF NOT EXISTS audit_trails (
+  id SERIAL PRIMARY KEY,
+  history TEXT NOT NULL,
+  os TEXT NOT NULL,
+  lang TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
+-- signal_signs
+CREATE TABLE IF NOT EXISTS signal_signs (
+  id SERIAL PRIMARY KEY,
+  type TEXT NOT NULL,
+  explanation JSONB NOT NULL,
+  image_path TEXT
+);
+
+-- signal_signs
+CREATE TABLE IF NOT EXISTS score_card (
+  id SERIAL PRIMARY KEY,
+  email TEXT NOT NULL,
+  score TEXT NOT NULL,
+  type TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+CREATE INDEX idx_score_email ON score_card(email);
 
