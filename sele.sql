@@ -2,7 +2,8 @@
 CREATE TABLE IF NOT EXISTS admins (
     id SERIAL PRIMARY KEY,
     email TEXT UNIQUE NOT NULL,
-    password TEXT NOT NULL
+    password TEXT NOT NULL,
+    company TEXT NOT NULL
 );
 
 -- Easy questions
@@ -33,14 +34,15 @@ CREATE TABLE IF NOT EXISTS activation_codes (
   code TEXT UNIQUE NOT NULL,
   is_used BOOLEAN DEFAULT false,
   email TEXT NOT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 );
 
 -- Insert a sample admin
 -- Password hash for 'password123'
-INSERT INTO admins(email, password) VALUES (
-  'admin@liman.com',
-  'password123'
+INSERT INTO admins(email, password, company) VALUES (
+  'admin@limangroup.com',
+  'password123',
+  'liman'
 );
 
 GRANT ALL PRIVILEGES ON TABLE activation_codes TO sachvkfl_liman;

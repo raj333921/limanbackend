@@ -7,8 +7,8 @@ const addScore = async (req, res) => {
   try {
     const { email, score, type } = req.body;
 
-    if (!email || !score || !type) {
-      return res.status(400).json({ message: 'Missing fields' });
+    if (!email || !score || typeof type !== 'boolean') {
+      return res.status(400).json({ message: 'Invalid fields' });
     }
 
     const query = `
