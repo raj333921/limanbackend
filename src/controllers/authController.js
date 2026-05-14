@@ -5,23 +5,18 @@ require("dotenv").config();
 
 exports.adminLogin = async (req, res) => {
   const { username, password } = req.body;
-
   try {
     console.log(username)
     const result = await pool.query("SELECT * FROM admins WHERE email=$1", [username]);
     if (result.rows.length === 0) return res.status(400).json({ message: "Admin not found" });
-
     const admin = result.rows[0];
-    console.log("12341->"+password);
-    console.log(admin.password);
+    const { password, ...adminWithoutPassword } = admin;
     const isMatch = (password === admin.password);
     if (!isMatch) return res.status(400).json({ message: "Incorrect password" });
-
     const token = jwt.sign({ id: admin.id, isAdmin: true }, process.env.JWT_SECRET, {
       expiresIn: "4h",
     });
-
-    res.json({ token });
+    res.json({ token, admin: adminWithoutPassword });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

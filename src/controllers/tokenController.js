@@ -4,14 +4,14 @@ const pool = require("../config/db");
  * CREATE activation code (Admin)
  */
 exports.createActivationCode = async (req, res) => {
-  const { code, email } = req.body;
+  const { code, email, comp } = req.body;
 
   try {
     const result = await pool.query(
-      `INSERT INTO activation_codes (code, email)
-       VALUES ($1, $2)
+      `INSERT INTO activation_codes (code, email, company)
+       VALUES ($1, $2, $3)
        RETURNING *`,
-      [code.trim().toUpperCase(), email.trim().toLowerCase()]
+      [code.trim().toUpperCase(), email.trim().toLowerCase(), comp.trim().toLowerCase()]
     );
 
     res.status(201).json(result.rows[0]);
@@ -24,11 +24,11 @@ exports.createActivationCode = async (req, res) => {
  * READ all activation codes (Admin)
  */
 exports.getActivationCodes = async (req, res) => {
+ const comp = req.headers["comp"];
   try {
     const result = await pool.query(
-      `SELECT * FROM activation_codes ORDER BY created_at DESC`
+      `SELECT * FROM activation_codes WHERE company = $1 ORDER BY created_at DESC`, [comp]
     );
-
     res.json(result.rows);
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -41,8 +41,7 @@ exports.getActivationCodes = async (req, res) => {
  */
 exports.updateActivationCode = async (req, res) => {
   const { id } = req.params;
-  const { is_used, email } = req.body;
-
+  const { is_used, email} = req.body;
   try {
     const result = await pool.query(
       `UPDATE activation_codes
@@ -68,11 +67,11 @@ exports.updateActivationCode = async (req, res) => {
  */
 exports.deleteActivationCode = async (req, res) => {
   const { id } = req.params;
-
+  const comp = req.headers["comp"];
   try {
     const result = await pool.query(
-      `DELETE FROM activation_codes WHERE id = $1`,
-      [id]
+      `DELETE FROM activation_codes WHERE id = $1 and company = $2`,
+      [id, comp]
     );
 
     if (result.rowCount === 0) {
@@ -88,10 +87,11 @@ exports.deleteActivationCode = async (req, res) => {
 
 exports.getActivationCodeById = async (req, res) => {
   const { id } = req.params;
+  const comp = req.headers["comp"];
   try {
     const result = await pool.query(
-      `select * FROM activation_codes WHERE id = $1`,
-      [id]
+      `select * FROM activation_codes WHERE id = $1 and company = $2`,
+      [id,comp]
     );
     if (result.rowCount === 0) {
       return res.status(404).json({ message: "Activation code not found" });
